@@ -1,0 +1,33 @@
+# scoliidae.xyz
+- DNS Record Layout
+    - @
+        - [ScoliidaeInc/scoliidaeinc.github.io](https://github.com/ScoliidaeInc/scoliidaeinc.github.io)
+            - https://scoliidaeinc.github.io
+                - https://scoliidae.xyz
+    - www
+        - [ScoliidaeInc/scoliidaeinc.github.io](https://github.com/ScoliidaeInc/scoliidaeinc.github.io)
+            - https://scoliidaeinc.github.io
+                - [https://www.scoliidae.xyz](https://scoliidae.xyz) (redirects to the "@" record)
+    - assets
+        - [ScoliidaeInc/assets](https://github.com/ScoliidaeInc/assets)
+            - http://scoliidaeinc.github.io/assets
+                - http://assets.scoliidae.xyz
+    - apps
+        - [ScoliidaeInc/apps](https://github.com/ScoliidaeInc/Apps)
+            - http://scoliidaeinc.github.io/Apps
+                - https://apps.scoliidae.xyz
+    - nms
+        - [ScoliidaeInc/Template-Python-Launcher-Packager](https://github.com/ScoliidaeInc/Template-Python-Launcher-Packager)
+            - http://scoliidaeinc.github.io/Template-Python-Launcher-Packager
+                - https://nms.scoliidae.xyz
+- Subdomain Layout
+    - @(www.)
+        - Landing Page
+        - /Tutorials
+    - assets
+        - /imgs
+        - /styles
+    - apps
+        - Landing Page
+    - nms
+        - Landing Page
